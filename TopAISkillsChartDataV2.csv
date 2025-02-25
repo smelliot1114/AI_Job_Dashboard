@@ -1,0 +1,644 @@
+"state_name","skills_name","skill_count","total_ai_listings","proportion"
+"Alabama","Artificial Intelligence",12,102,0.117647058823529
+"Alabama","Data Modeling",12,102,0.117647058823529
+"Alabama","Machine Learning",11,102,0.107843137254902
+"Alabama","Data Science",9,102,0.0882352941176471
+"Alabama","Predictive Analytics",5,102,0.0490196078431373
+"Alabama","Splunk",5,102,0.0490196078431373
+"Alabama","Big Data",4,102,0.0392156862745098
+"Alabama","Data Manipulation",4,102,0.0392156862745098
+"Alabama","Data Engineering",3,102,0.0294117647058824
+"Alabama","Data Intelligence",3,102,0.0294117647058824
+"Alabama","Veeva",3,102,0.0294117647058824
+"Alaska","Machine Learning",4,19,0.210526315789474
+"Alaska","Big Data",2,19,0.105263157894737
+"Alaska","Informatics",2,19,0.105263157894737
+"Alaska","Artificial Intelligence",1,19,0.0526315789473684
+"Alaska","Cognitive Computing",1,19,0.0526315789473684
+"Alaska","Convolutional Neural Networks",1,19,0.0526315789473684
+"Alaska","Data Element",1,19,0.0526315789473684
+"Alaska","Data Infrastructure",1,19,0.0526315789473684
+"Alaska","Data Manipulation",1,19,0.0526315789473684
+"Alaska","Data Modeling",1,19,0.0526315789473684
+"Alaska","Deep Learning",1,19,0.0526315789473684
+"Alaska","Metadata",1,19,0.0526315789473684
+"Alaska","Pattern Recognition",1,19,0.0526315789473684
+"Alaska","PyTorch (Machine Learning Library)",1,19,0.0526315789473684
+"Arizona","Data Modeling",46,360,0.127777777777778
+"Arizona","Big Data",35,360,0.0972222222222222
+"Arizona","Apache Hadoop",24,360,0.0666666666666667
+"Arizona","Machine Learning",21,360,0.0583333333333333
+"Arizona","Apache Spark",20,360,0.0555555555555556
+"Arizona","Data Science",20,360,0.0555555555555556
+"Arizona","Artificial Intelligence",17,360,0.0472222222222222
+"Arizona","Metadata",16,360,0.0444444444444444
+"Arizona","Splunk",14,360,0.0388888888888889
+"Arizona","Data Engineering",12,360,0.0333333333333333
+"Arkansas","Data Science",8,56,0.142857142857143
+"Arkansas","Big Data",7,56,0.125
+"Arkansas","Data Modeling",7,56,0.125
+"Arkansas","Apache Hadoop",5,56,0.0892857142857143
+"Arkansas","Apache Spark",4,56,0.0714285714285714
+"Arkansas","Machine Learning",4,56,0.0714285714285714
+"Arkansas","Data Engineering",3,56,0.0535714285714286
+"Arkansas","Artificial Intelligence",2,56,0.0357142857142857
+"Arkansas","Apache Airflow",1,56,0.0178571428571429
+"Arkansas","Apache Mahout",1,56,0.0178571428571429
+"Arkansas","Apache NiFi",1,56,0.0178571428571429
+"Arkansas","Apache Oozie",1,56,0.0178571428571429
+"Arkansas","Apache Yarn",1,56,0.0178571428571429
+"Arkansas","Boosting",1,56,0.0178571428571429
+"Arkansas","Chatbot",1,56,0.0178571428571429
+"Arkansas","Data Cleansing",1,56,0.0178571428571429
+"Arkansas","Data Infrastructure",1,56,0.0178571428571429
+"Arkansas","Data Manipulation",1,56,0.0178571428571429
+"Arkansas","Data Profiling",1,56,0.0178571428571429
+"Arkansas","Kubeflow",1,56,0.0178571428571429
+"Arkansas","MapReduce",1,56,0.0178571428571429
+"Arkansas","Semi-Structured Data",1,56,0.0178571428571429
+"Arkansas","Star Schema",1,56,0.0178571428571429
+"Arkansas","Support Vector Machine",1,56,0.0178571428571429
+"California","Machine Learning",316,2780,0.113669064748201
+"California","Data Modeling",256,2780,0.0920863309352518
+"California","Big Data",242,2780,0.0870503597122302
+"California","Data Science",218,2780,0.0784172661870504
+"California","Apache Hadoop",178,2780,0.0640287769784173
+"California","Artificial Intelligence",166,2780,0.0597122302158273
+"California","Apache Spark",131,2780,0.0471223021582734
+"California","Data Engineering",109,2780,0.0392086330935252
+"California","Splunk",84,2780,0.0302158273381295
+"California","Metadata",69,2780,0.0248201438848921
+"Colorado","Big Data",39,386,0.101036269430052
+"Colorado","Machine Learning",37,386,0.0958549222797927
+"Colorado","Data Modeling",33,386,0.0854922279792746
+"Colorado","Apache Hadoop",26,386,0.0673575129533679
+"Colorado","Artificial Intelligence",23,386,0.0595854922279793
+"Colorado","Data Science",22,386,0.0569948186528497
+"Colorado","Apache Spark",19,386,0.0492227979274611
+"Colorado","Splunk",17,386,0.0440414507772021
+"Colorado","Data Engineering",11,386,0.0284974093264249
+"Colorado","MapReduce",10,386,0.0259067357512953
+"Colorado","Metadata",10,386,0.0259067357512953
+"Connecticut","Data Modeling",35,230,0.152173913043478
+"Connecticut","Big Data",22,230,0.0956521739130435
+"Connecticut","Machine Learning",16,230,0.0695652173913043
+"Connecticut","Apache Hadoop",15,230,0.0652173913043478
+"Connecticut","Data Engineering",15,230,0.0652173913043478
+"Connecticut","Data Science",13,230,0.0565217391304348
+"Connecticut","Apache Spark",12,230,0.0521739130434783
+"Connecticut","Artificial Intelligence",10,230,0.0434782608695652
+"Connecticut","Metadata",7,230,0.0304347826086957
+"Connecticut","Splunk",5,230,0.0217391304347826
+"Delaware","Data Modeling",20,100,0.2
+"Delaware","Big Data",9,100,0.09
+"Delaware","Apache Hadoop",6,100,0.06
+"Delaware","Machine Learning",6,100,0.06
+"Delaware","Apache Spark",5,100,0.05
+"Delaware","Data Engineering",5,100,0.05
+"Delaware","Data Science",5,100,0.05
+"Delaware","Artificial Intelligence",3,100,0.03
+"Delaware","Data Definition Language",3,100,0.03
+"Delaware","Erwin (Data Modeling Software)",3,100,0.03
+"Delaware","Machine Learning Algorithms",3,100,0.03
+"Delaware","Metadata",3,100,0.03
+"Delaware","Unstructured Data",3,100,0.03
+"Florida","Data Modeling",71,559,0.12701252236136
+"Florida","Big Data",43,559,0.0769230769230769
+"Florida","Artificial Intelligence",42,559,0.075134168157424
+"Florida","Data Science",37,559,0.0661896243291592
+"Florida","Machine Learning",34,559,0.0608228980322004
+"Florida","Apache Hadoop",28,559,0.0500894454382826
+"Florida","Apache Spark",26,559,0.0465116279069767
+"Florida","Splunk",24,559,0.0429338103756708
+"Florida","Data Engineering",23,559,0.0411449016100179
+"Florida","Metadata",16,559,0.0286225402504472
+"Georgia","Data Modeling",64,537,0.119180633147114
+"Georgia","Big Data",48,537,0.0893854748603352
+"Georgia","Data Science",44,537,0.0819366852886406
+"Georgia","Machine Learning",43,537,0.080074487895717
+"Georgia","Apache Hadoop",32,537,0.0595903165735568
+"Georgia","Artificial Intelligence",32,537,0.0595903165735568
+"Georgia","Apache Spark",26,537,0.0484171322160149
+"Georgia","Data Engineering",20,537,0.037243947858473
+"Georgia","Splunk",19,537,0.0353817504655493
+"Georgia","Metadata",18,537,0.0335195530726257
+"Hawaii","Data Science",6,74,0.0810810810810811
+"Hawaii","Artificial Intelligence",5,74,0.0675675675675676
+"Hawaii","Splunk",5,74,0.0675675675675676
+"Hawaii","Big Data",4,74,0.0540540540540541
+"Hawaii","Data Modeling",4,74,0.0540540540540541
+"Hawaii","Machine Learning",4,74,0.0540540540540541
+"Hawaii","Apache Spark",3,74,0.0405405405405405
+"Hawaii","Data Engineering",2,74,0.027027027027027
+"Hawaii","Data Infrastructure",2,74,0.027027027027027
+"Hawaii","Data Intelligence",2,74,0.027027027027027
+"Hawaii","Data Manipulation",2,74,0.027027027027027
+"Hawaii","Deep Learning",2,74,0.027027027027027
+"Hawaii","Metadata",2,74,0.027027027027027
+"Hawaii","Unstructured Data",2,74,0.027027027027027
+"Idaho","Data Modeling",8,68,0.117647058823529
+"Idaho","Machine Learning",7,68,0.102941176470588
+"Idaho","Artificial Intelligence",6,68,0.0882352941176471
+"Idaho","Big Data",5,68,0.0735294117647059
+"Idaho","Data Science",5,68,0.0735294117647059
+"Idaho","Data Engineering",4,68,0.0588235294117647
+"Idaho","Data Manipulation",3,68,0.0441176470588235
+"Idaho","Splunk",3,68,0.0441176470588235
+"Idaho","Apache Spark",2,68,0.0294117647058824
+"Idaho","Data Infrastructure",2,68,0.0294117647058824
+"Idaho","Data Intelligence",2,68,0.0294117647058824
+"Idaho","Veeva",2,68,0.0294117647058824
+"Illinois","Data Modeling",87,751,0.115845539280959
+"Illinois","Data Science",60,751,0.0798934753661784
+"Illinois","Machine Learning",60,751,0.0798934753661784
+"Illinois","Big Data",50,751,0.066577896138482
+"Illinois","Artificial Intelligence",42,751,0.0559254327563249
+"Illinois","Apache Hadoop",40,751,0.0532623169107856
+"Illinois","Apache Spark",37,751,0.0492676431424767
+"Illinois","Data Engineering",29,751,0.0386151797603196
+"Illinois","Metadata",25,751,0.033288948069241
+"Illinois","Data Manipulation",22,751,0.0292942743009321
+"Indiana","Data Modeling",15,121,0.12396694214876
+"Indiana","Data Science",11,121,0.0909090909090909
+"Indiana","Machine Learning",10,121,0.0826446280991736
+"Indiana","Apache Spark",8,121,0.0661157024793388
+"Indiana","Big Data",8,121,0.0661157024793388
+"Indiana","Apache Hadoop",7,121,0.0578512396694215
+"Indiana","Predictive Analytics",7,121,0.0578512396694215
+"Indiana","Artificial Intelligence",6,121,0.0495867768595041
+"Indiana","Metadata",6,121,0.0495867768595041
+"Indiana","Data Engineering",4,121,0.0330578512396694
+"Indiana","Data Profiling",4,121,0.0330578512396694
+"Iowa","Data Modeling",19,94,0.202127659574468
+"Iowa","Machine Learning",8,94,0.0851063829787234
+"Iowa","Data Science",7,94,0.074468085106383
+"Iowa","Artificial Intelligence",6,94,0.0638297872340425
+"Iowa","Data Engineering",6,94,0.0638297872340425
+"Iowa","Big Data",4,94,0.0425531914893617
+"Iowa","Data Manipulation",4,94,0.0425531914893617
+"Iowa","Apache Hadoop",3,94,0.0319148936170213
+"Iowa","Apache Spark",3,94,0.0319148936170213
+"Iowa","Machine Learning Algorithms",3,94,0.0319148936170213
+"Iowa","Predictive Analytics",3,94,0.0319148936170213
+"Kansas","Machine Learning",10,93,0.10752688172043
+"Kansas","Data Modeling",8,93,0.0860215053763441
+"Kansas","Artificial Intelligence",7,93,0.0752688172043011
+"Kansas","Big Data",7,93,0.0752688172043011
+"Kansas","Data Science",7,93,0.0752688172043011
+"Kansas","Apache Spark",5,93,0.0537634408602151
+"Kansas","Predictive Analytics",5,93,0.0537634408602151
+"Kansas","Metadata",4,93,0.043010752688172
+"Kansas","Apache Hadoop",3,93,0.032258064516129
+"Kansas","Data Engineering",3,93,0.032258064516129
+"Kansas","Data Manipulation",3,93,0.032258064516129
+"Kentucky","Data Modeling",14,75,0.186666666666667
+"Kentucky","Data Engineering",6,75,0.08
+"Kentucky","Artificial Intelligence",5,75,0.0666666666666667
+"Kentucky","Data Science",5,75,0.0666666666666667
+"Kentucky","Machine Learning",5,75,0.0666666666666667
+"Kentucky","Metadata",5,75,0.0666666666666667
+"Kentucky","Apache Hadoop",3,75,0.04
+"Kentucky","Data Infrastructure",3,75,0.04
+"Kentucky","Pattern Recognition",3,75,0.04
+"Kentucky","Informatics",2,75,0.0266666666666667
+"Kentucky","Predictive Analytics",2,75,0.0266666666666667
+"Kentucky","Splunk",2,75,0.0266666666666667
+"Kentucky","Unstructured Data",2,75,0.0266666666666667
+"Louisiana","Data Science",9,74,0.121621621621622
+"Louisiana","Machine Learning",8,74,0.108108108108108
+"Louisiana","Data Modeling",6,74,0.0810810810810811
+"Louisiana","Artificial Intelligence",5,74,0.0675675675675676
+"Louisiana","Predictive Analytics",5,74,0.0675675675675676
+"Louisiana","Big Data",4,74,0.0540540540540541
+"Louisiana","Decision Science",3,74,0.0405405405405405
+"Louisiana","Chatbot",2,74,0.027027027027027
+"Louisiana","Data Manipulation",2,74,0.027027027027027
+"Louisiana","Machine Learning Algorithms",2,74,0.027027027027027
+"Louisiana","Star Schema",2,74,0.027027027027027
+"Louisiana","Support Vector Machine",2,74,0.027027027027027
+"Louisiana","Unstructured Data",2,74,0.027027027027027
+"Louisiana","Veeva",2,74,0.027027027027027
+"Maine","Data Modeling",4,28,0.142857142857143
+"Maine","Artificial Intelligence",3,28,0.107142857142857
+"Maine","Data Science",3,28,0.107142857142857
+"Maine","Data Cleansing",2,28,0.0714285714285714
+"Maine","Data Manipulation",2,28,0.0714285714285714
+"Maine","Machine Learning",2,28,0.0714285714285714
+"Maine","Metadata",2,28,0.0714285714285714
+"Maine","Apache Hadoop",1,28,0.0357142857142857
+"Maine","Big Data",1,28,0.0357142857142857
+"Maine","Data Discovery",1,28,0.0357142857142857
+"Maine","Data Engineering",1,28,0.0357142857142857
+"Maine","Deep Learning",1,28,0.0357142857142857
+"Maine","Expert Systems",1,28,0.0357142857142857
+"Maine","Pandas (Python Package)",1,28,0.0357142857142857
+"Maine","Predictive Analytics",1,28,0.0357142857142857
+"Maine","Splunk",1,28,0.0357142857142857
+"Maine","Time Series Analysis And Forecasting",1,28,0.0357142857142857
+"Maryland","Data Modeling",57,447,0.12751677852349
+"Maryland","Data Science",32,447,0.0715883668903803
+"Maryland","Machine Learning",31,447,0.0693512304250559
+"Maryland","Metadata",30,447,0.0671140939597315
+"Maryland","Big Data",29,447,0.0648769574944072
+"Maryland","Apache Hadoop",27,447,0.0604026845637584
+"Maryland","Splunk",23,447,0.0514541387024608
+"Maryland","Artificial Intelligence",18,447,0.0402684563758389
+"Maryland","Data Engineering",18,447,0.0402684563758389
+"Maryland","Apache Spark",11,447,0.0246085011185682
+"Maryland","MapReduce",11,447,0.0246085011185682
+"Massachusetts","Machine Learning",81,794,0.102015113350126
+"Massachusetts","Data Science",80,794,0.100755667506297
+"Massachusetts","Big Data",64,794,0.0806045340050378
+"Massachusetts","Data Modeling",61,794,0.0768261964735516
+"Massachusetts","Artificial Intelligence",45,794,0.0566750629722922
+"Massachusetts","Apache Hadoop",42,794,0.052896725440806
+"Massachusetts","Apache Spark",29,794,0.0365239294710327
+"Massachusetts","Data Engineering",27,794,0.0340050377833753
+"Massachusetts","Data Manipulation",22,794,0.0277078085642317
+"Massachusetts","Splunk",20,794,0.0251889168765743
+"Michigan","Data Modeling",43,390,0.11025641025641
+"Michigan","Machine Learning",32,390,0.082051282051282
+"Michigan","Big Data",29,390,0.0743589743589744
+"Michigan","Apache Spark",23,390,0.058974358974359
+"Michigan","Artificial Intelligence",23,390,0.058974358974359
+"Michigan","Data Science",23,390,0.058974358974359
+"Michigan","Apache Hadoop",20,390,0.0512820512820513
+"Michigan","Data Manipulation",12,390,0.0307692307692308
+"Michigan","Metadata",12,390,0.0307692307692308
+"Michigan","Data Engineering",11,390,0.0282051282051282
+"Michigan","Predictive Analytics",11,390,0.0282051282051282
+"Minnesota","Data Modeling",41,242,0.169421487603306
+"Minnesota","Data Science",19,242,0.0785123966942149
+"Minnesota","Big Data",16,242,0.0661157024793388
+"Minnesota","Apache Hadoop",15,242,0.0619834710743802
+"Minnesota","Artificial Intelligence",15,242,0.0619834710743802
+"Minnesota","Machine Learning",15,242,0.0619834710743802
+"Minnesota","Data Engineering",13,242,0.0537190082644628
+"Minnesota","Splunk",10,242,0.0413223140495868
+"Minnesota","Data Manipulation",9,242,0.0371900826446281
+"Minnesota","Apache Spark",8,242,0.0330578512396694
+"Mississippi","Data Engineering",6,49,0.122448979591837
+"Mississippi","Predictive Analytics",6,49,0.122448979591837
+"Mississippi","Big Data",4,49,0.0816326530612245
+"Mississippi","Data Modeling",3,49,0.0612244897959184
+"Mississippi","Data Science",3,49,0.0612244897959184
+"Mississippi","Apache Hadoop",2,49,0.0408163265306122
+"Mississippi","Apache Spark",2,49,0.0408163265306122
+"Mississippi","Artificial Intelligence",2,49,0.0408163265306122
+"Mississippi","Data Discovery",2,49,0.0408163265306122
+"Mississippi","Machine Learning",2,49,0.0408163265306122
+"Missouri","Data Science",28,202,0.138613861386139
+"Missouri","Data Modeling",27,202,0.133663366336634
+"Missouri","Big Data",22,202,0.108910891089109
+"Missouri","Artificial Intelligence",12,202,0.0594059405940594
+"Missouri","Machine Learning",12,202,0.0594059405940594
+"Missouri","Apache Hadoop",10,202,0.0495049504950495
+"Missouri","Splunk",10,202,0.0495049504950495
+"Missouri","Data Engineering",8,202,0.0396039603960396
+"Missouri","Predictive Analytics",7,202,0.0346534653465347
+"Missouri","Apache Spark",6,202,0.0297029702970297
+"Missouri","Metadata",6,202,0.0297029702970297
+"Montana","Data Science",4,19,0.210526315789474
+"Montana","Machine Learning",2,19,0.105263157894737
+"Montana","Artificial Intelligence",1,19,0.0526315789473684
+"Montana","Data Modeling",1,19,0.0526315789473684
+"Montana","Data Reduction",1,19,0.0526315789473684
+"Montana","Deep Learning",1,19,0.0526315789473684
+"Montana","Keras (Neural Network Library)",1,19,0.0526315789473684
+"Montana","Language Model",1,19,0.0526315789473684
+"Montana","Metadata",1,19,0.0526315789473684
+"Montana","Multi-Agent Systems",1,19,0.0526315789473684
+"Montana","Pandas (Python Package)",1,19,0.0526315789473684
+"Montana","PyTorch (Machine Learning Library)",1,19,0.0526315789473684
+"Montana","Scikit-Learn (Python Package)",1,19,0.0526315789473684
+"Montana","TensorFlow",1,19,0.0526315789473684
+"Montana","Unstructured Data",1,19,0.0526315789473684
+"Nebraska","Data Modeling",14,77,0.181818181818182
+"Nebraska","Data Science",6,77,0.0779220779220779
+"Nebraska","Machine Learning",6,77,0.0779220779220779
+"Nebraska","Apache Spark",5,77,0.0649350649350649
+"Nebraska","Artificial Intelligence",5,77,0.0649350649350649
+"Nebraska","Big Data",4,77,0.051948051948052
+"Nebraska","Erwin (Data Modeling Software)",3,77,0.038961038961039
+"Nebraska","Apache Hadoop",2,77,0.025974025974026
+"Nebraska","Data Engineering",2,77,0.025974025974026
+"Nebraska","Data Manipulation",2,77,0.025974025974026
+"Nebraska","Decision Science",2,77,0.025974025974026
+"Nebraska","Metadata",2,77,0.025974025974026
+"Nebraska","Pyspark",2,77,0.025974025974026
+"Nebraska","Real Time Data",2,77,0.025974025974026
+"Nebraska","Scikit-Learn (Python Package)",2,77,0.025974025974026
+"Nebraska","Splunk",2,77,0.025974025974026
+"Nebraska","TensorFlow",2,77,0.025974025974026
+"Nevada","Data Modeling",10,82,0.121951219512195
+"Nevada","Data Science",8,82,0.0975609756097561
+"Nevada","Data Engineering",7,82,0.0853658536585366
+"Nevada","Machine Learning",6,82,0.0731707317073171
+"Nevada","Apache Spark",5,82,0.0609756097560976
+"Nevada","Big Data",5,82,0.0609756097560976
+"Nevada","Apache Hadoop",4,82,0.048780487804878
+"Nevada","Artificial Intelligence",4,82,0.048780487804878
+"Nevada","Data Manipulation",3,82,0.0365853658536585
+"Nevada","Metadata",3,82,0.0365853658536585
+"Nevada","Splunk",3,82,0.0365853658536585
+"New Hampshire","Data Modeling",13,58,0.224137931034483
+"New Hampshire","Big Data",8,58,0.137931034482759
+"New Hampshire","Artificial Intelligence",4,58,0.0689655172413793
+"New Hampshire","Data Science",4,58,0.0689655172413793
+"New Hampshire","Apache Hadoop",3,58,0.0517241379310345
+"New Hampshire","Data Manipulation",3,58,0.0517241379310345
+"New Hampshire","Splunk",3,58,0.0517241379310345
+"New Hampshire","Data Engineering",2,58,0.0344827586206897
+"New Hampshire","Deep Learning",2,58,0.0344827586206897
+"New Hampshire","Machine Learning",2,58,0.0344827586206897
+"New Hampshire","Metadata",2,58,0.0344827586206897
+"New Hampshire","Netezza",2,58,0.0344827586206897
+"New Jersey","Data Modeling",98,644,0.152173913043478
+"New Jersey","Big Data",70,644,0.108695652173913
+"New Jersey","Machine Learning",47,644,0.0729813664596273
+"New Jersey","Artificial Intelligence",42,644,0.0652173913043478
+"New Jersey","Data Science",35,644,0.0543478260869565
+"New Jersey","Apache Spark",34,644,0.0527950310559006
+"New Jersey","Apache Hadoop",31,644,0.0481366459627329
+"New Jersey","Splunk",27,644,0.0419254658385093
+"New Jersey","Data Engineering",16,644,0.0248447204968944
+"New Jersey","Metadata",16,644,0.0248447204968944
+"New Mexico","Machine Learning",5,35,0.142857142857143
+"New Mexico","Big Data",3,35,0.0857142857142857
+"New Mexico","Data Science",3,35,0.0857142857142857
+"New Mexico","Knowledge-Based Systems",3,35,0.0857142857142857
+"New Mexico","Artificial Intelligence",2,35,0.0571428571428571
+"New Mexico","Metadata",2,35,0.0571428571428571
+"New Mexico","Splunk",2,35,0.0571428571428571
+"New Mexico","Apache Hadoop",1,35,0.0285714285714286
+"New Mexico","Apache Spark",1,35,0.0285714285714286
+"New Mexico","Apache Yarn",1,35,0.0285714285714286
+"New Mexico","Conceptual Data Modeling",1,35,0.0285714285714286
+"New Mexico","Data Cleansing",1,35,0.0285714285714286
+"New Mexico","Data Engineering",1,35,0.0285714285714286
+"New Mexico","Data Modeling",1,35,0.0285714285714286
+"New Mexico","Data Preprocessing",1,35,0.0285714285714286
+"New Mexico","Deep Learning",1,35,0.0285714285714286
+"New Mexico","Intelligent Virtual Assistant",1,35,0.0285714285714286
+"New Mexico","Knowledge Engineering",1,35,0.0285714285714286
+"New Mexico","Machine Learning Algorithms",1,35,0.0285714285714286
+"New Mexico","Pattern Recognition",1,35,0.0285714285714286
+"New Mexico","Relational Online Analytical Processing (ROLAP)",1,35,0.0285714285714286
+"New Mexico","TensorFlow",1,35,0.0285714285714286
+"New York","Data Modeling",128,1117,0.114592658907789
+"New York","Machine Learning",105,1117,0.0940017905102954
+"New York","Data Science",104,1117,0.0931065353625783
+"New York","Big Data",101,1117,0.090420769919427
+"New York","Artificial Intelligence",68,1117,0.0608773500447628
+"New York","Apache Hadoop",63,1117,0.0564010743061773
+"New York","Apache Spark",53,1117,0.0474485228290063
+"New York","Data Engineering",42,1117,0.0376007162041182
+"New York","Metadata",38,1117,0.0340196956132498
+"New York","Data Manipulation",37,1117,0.0331244404655327
+"North Carolina","Data Modeling",70,572,0.122377622377622
+"North Carolina","Big Data",47,572,0.0821678321678322
+"North Carolina","Apache Hadoop",40,572,0.0699300699300699
+"North Carolina","Data Science",37,572,0.0646853146853147
+"North Carolina","Splunk",36,572,0.0629370629370629
+"North Carolina","Machine Learning",34,572,0.0594405594405594
+"North Carolina","Artificial Intelligence",32,572,0.0559440559440559
+"North Carolina","Data Engineering",26,572,0.0454545454545455
+"North Carolina","Apache Spark",25,572,0.0437062937062937
+"North Carolina","Metadata",25,572,0.0437062937062937
+"North Dakota","Data Modeling",2,10,0.2
+"North Dakota","Apache Spark",1,10,0.1
+"North Dakota","Big Data",1,10,0.1
+"North Dakota","Data Engineering",1,10,0.1
+"North Dakota","Data Manipulation",1,10,0.1
+"North Dakota","Data Science",1,10,0.1
+"North Dakota","Knowledge-Based Systems",1,10,0.1
+"North Dakota","Star Schema",1,10,0.1
+"North Dakota","Unstructured Data",1,10,0.1
+"Ohio","Data Modeling",48,363,0.132231404958678
+"Ohio","Big Data",33,363,0.0909090909090909
+"Ohio","Data Science",24,363,0.0661157024793388
+"Ohio","Machine Learning",22,363,0.0606060606060606
+"Ohio","Artificial Intelligence",20,363,0.0550964187327824
+"Ohio","Apache Spark",18,363,0.0495867768595041
+"Ohio","Apache Hadoop",17,363,0.046831955922865
+"Ohio","Metadata",17,363,0.046831955922865
+"Ohio","Data Engineering",15,363,0.0413223140495868
+"Ohio","Splunk",13,363,0.0358126721763085
+"Oklahoma","Artificial Intelligence",8,63,0.126984126984127
+"Oklahoma","Data Modeling",8,63,0.126984126984127
+"Oklahoma","Apache Spark",5,63,0.0793650793650794
+"Oklahoma","Data Science",4,63,0.0634920634920635
+"Oklahoma","Machine Learning",4,63,0.0634920634920635
+"Oklahoma","Big Data",3,63,0.0476190476190476
+"Oklahoma","Artificial Neural Networks",2,63,0.0317460317460317
+"Oklahoma","Data Engineering",2,63,0.0317460317460317
+"Oklahoma","Data Manipulation",2,63,0.0317460317460317
+"Oklahoma","Metadata",2,63,0.0317460317460317
+"Oklahoma","Predictive Analytics",2,63,0.0317460317460317
+"Oklahoma","Random Forest Algorithm",2,63,0.0317460317460317
+"Oregon","Data Modeling",26,246,0.105691056910569
+"Oregon","Big Data",24,246,0.0975609756097561
+"Oregon","Data Science",22,246,0.0894308943089431
+"Oregon","Machine Learning",21,246,0.0853658536585366
+"Oregon","Data Engineering",15,246,0.0609756097560976
+"Oregon","Artificial Intelligence",13,246,0.0528455284552846
+"Oregon","Apache Hadoop",12,246,0.048780487804878
+"Oregon","Apache Spark",12,246,0.048780487804878
+"Oregon","Metadata",11,246,0.0447154471544715
+"Oregon","Apache Airflow",5,246,0.0203252032520325
+"Oregon","Data Manipulation",5,246,0.0203252032520325
+"Oregon","Databricks",5,246,0.0203252032520325
+"Oregon","Predictive Analytics",5,246,0.0203252032520325
+"Oregon","Splunk",5,246,0.0203252032520325
+"Pennsylvania","Data Modeling",58,552,0.105072463768116
+"Pennsylvania","Machine Learning",44,552,0.0797101449275362
+"Pennsylvania","Big Data",43,552,0.0778985507246377
+"Pennsylvania","Data Science",35,552,0.0634057971014493
+"Pennsylvania","Apache Hadoop",33,552,0.0597826086956522
+"Pennsylvania","Artificial Intelligence",28,552,0.0507246376811594
+"Pennsylvania","Apache Spark",26,552,0.0471014492753623
+"Pennsylvania","Data Engineering",25,552,0.0452898550724638
+"Pennsylvania","Metadata",17,552,0.0307971014492754
+"Pennsylvania","Predictive Analytics",13,552,0.0235507246376812
+"Rhode Island","Data Modeling",11,60,0.183333333333333
+"Rhode Island","Machine Learning",8,60,0.133333333333333
+"Rhode Island","Data Science",5,60,0.0833333333333333
+"Rhode Island","Big Data",4,60,0.0666666666666667
+"Rhode Island","Data Engineering",4,60,0.0666666666666667
+"Rhode Island","Apache Hadoop",3,60,0.05
+"Rhode Island","Data Manipulation",3,60,0.05
+"Rhode Island","Apache Yarn",2,60,0.0333333333333333
+"Rhode Island","Artificial Intelligence",2,60,0.0333333333333333
+"Rhode Island","Apache Spark",1,60,0.0166666666666667
+"Rhode Island","Artificial Neural Networks",1,60,0.0166666666666667
+"Rhode Island","Data Definition Language",1,60,0.0166666666666667
+"Rhode Island","Data Discovery",1,60,0.0166666666666667
+"Rhode Island","Decision Tree Learning",1,60,0.0166666666666667
+"Rhode Island","Deep Learning",1,60,0.0166666666666667
+"Rhode Island","Entity Relationship Models",1,60,0.0166666666666667
+"Rhode Island","H2O.ai",1,60,0.0166666666666667
+"Rhode Island","MLOps (Machine Learning Operations)",1,60,0.0166666666666667
+"Rhode Island","Missing Data",1,60,0.0166666666666667
+"Rhode Island","Predictive Analytics",1,60,0.0166666666666667
+"Rhode Island","Random Forest Algorithm",1,60,0.0166666666666667
+"Rhode Island","Snowflake Schema",1,60,0.0166666666666667
+"Rhode Island","Splunk",1,60,0.0166666666666667
+"Rhode Island","Star Schema",1,60,0.0166666666666667
+"Rhode Island","TensorFlow",1,60,0.0166666666666667
+"Rhode Island","Time Series Analysis And Forecasting",1,60,0.0166666666666667
+"Rhode Island","Unstructured Data",1,60,0.0166666666666667
+"South Carolina","Data Science",7,50,0.14
+"South Carolina","Data Modeling",5,50,0.1
+"South Carolina","Machine Learning",5,50,0.1
+"South Carolina","Predictive Analytics",4,50,0.08
+"South Carolina","Artificial Intelligence",3,50,0.06
+"South Carolina","Big Data",3,50,0.06
+"South Carolina","Apache Hadoop",2,50,0.04
+"South Carolina","Missing Data",2,50,0.04
+"South Carolina","Splunk",2,50,0.04
+"South Carolina","Apache Spark",1,50,0.02
+"South Carolina","Apache Yarn",1,50,0.02
+"South Carolina","Business Intelligence Data Modeling",1,50,0.02
+"South Carolina","Data Cleansing",1,50,0.02
+"South Carolina","Data Cube",1,50,0.02
+"South Carolina","Data Manipulation",1,50,0.02
+"South Carolina","Data Preprocessing",1,50,0.02
+"South Carolina","Deep Learning",1,50,0.02
+"South Carolina","Informatics",1,50,0.02
+"South Carolina","Jupyter Notebook",1,50,0.02
+"South Carolina","Machine Learning Algorithms",1,50,0.02
+"South Carolina","Metadata",1,50,0.02
+"South Carolina","Real Time Data",1,50,0.02
+"South Carolina","Semi-Structured Data",1,50,0.02
+"South Carolina","Star Schema",1,50,0.02
+"South Carolina","Unstructured Data",1,50,0.02
+"South Carolina","Veeva",1,50,0.02
+"South Dakota","Data Manipulation",4,22,0.181818181818182
+"South Dakota","Big Data",2,22,0.0909090909090909
+"South Dakota","Metadata",2,22,0.0909090909090909
+"South Dakota","Real Time Data",2,22,0.0909090909090909
+"South Dakota","Apache Hadoop",1,22,0.0454545454545455
+"South Dakota","Apache Storm",1,22,0.0454545454545455
+"South Dakota","Artificial Intelligence",1,22,0.0454545454545455
+"South Dakota","Data Engineering",1,22,0.0454545454545455
+"South Dakota","Data Literacy",1,22,0.0454545454545455
+"South Dakota","Data Modeling",1,22,0.0454545454545455
+"South Dakota","Data Profiling",1,22,0.0454545454545455
+"South Dakota","Data Science",1,22,0.0454545454545455
+"South Dakota","Entity Relationship Models",1,22,0.0454545454545455
+"South Dakota","Informatics",1,22,0.0454545454545455
+"South Dakota","Splunk",1,22,0.0454545454545455
+"South Dakota","Time Series Analysis And Forecasting",1,22,0.0454545454545455
+"Tennessee","Data Modeling",23,157,0.146496815286624
+"Tennessee","Data Science",17,157,0.10828025477707
+"Tennessee","Machine Learning",10,157,0.0636942675159236
+"Tennessee","Big Data",9,157,0.0573248407643312
+"Tennessee","Apache Hadoop",8,157,0.0509554140127389
+"Tennessee","Apache Spark",8,157,0.0509554140127389
+"Tennessee","Artificial Intelligence",7,157,0.0445859872611465
+"Tennessee","Data Engineering",7,157,0.0445859872611465
+"Tennessee","Metadata",6,157,0.0382165605095541
+"Tennessee","Data Manipulation",4,157,0.0254777070063694
+"Tennessee","Predictive Analytics",4,157,0.0254777070063694
+"Texas","Data Modeling",165,1402,0.117689015691869
+"Texas","Big Data",121,1402,0.0863052781740371
+"Texas","Machine Learning",121,1402,0.0863052781740371
+"Texas","Data Science",101,1402,0.0720399429386591
+"Texas","Artificial Intelligence",86,1402,0.0613409415121255
+"Texas","Apache Hadoop",82,1402,0.0584878744650499
+"Texas","Splunk",66,1402,0.0470756062767475
+"Texas","Apache Spark",61,1402,0.043509272467903
+"Texas","Data Engineering",55,1402,0.0392296718972896
+"Texas","Metadata",38,1402,0.0271041369472183
+"Utah","Machine Learning",17,131,0.129770992366412
+"Utah","Artificial Intelligence",12,131,0.0916030534351145
+"Utah","Data Modeling",12,131,0.0916030534351145
+"Utah","Data Science",12,131,0.0916030534351145
+"Utah","Big Data",10,131,0.0763358778625954
+"Utah","Data Engineering",6,131,0.0458015267175573
+"Utah","Data Manipulation",6,131,0.0458015267175573
+"Utah","Splunk",6,131,0.0458015267175573
+"Utah","Apache Hadoop",5,131,0.0381679389312977
+"Utah","Apache Spark",4,131,0.0305343511450382
+"Vermont","Data Science",4,27,0.148148148148148
+"Vermont","Machine Learning",4,27,0.148148148148148
+"Vermont","Big Data",3,27,0.111111111111111
+"Vermont","Artificial Intelligence",2,27,0.0740740740740741
+"Vermont","Apache Yarn",1,27,0.037037037037037
+"Vermont","Artificial Neural Networks",1,27,0.037037037037037
+"Vermont","Association Rule Learning",1,27,0.037037037037037
+"Vermont","Boosting",1,27,0.037037037037037
+"Vermont","Data Manipulation",1,27,0.037037037037037
+"Vermont","Data Modeling",1,27,0.037037037037037
+"Vermont","Deep Learning",1,27,0.037037037037037
+"Vermont","Erwin (Data Modeling Software)",1,27,0.037037037037037
+"Vermont","Loss Functions",1,27,0.037037037037037
+"Vermont","Machine Learning Algorithms",1,27,0.037037037037037
+"Vermont","Predictive Analytics",1,27,0.037037037037037
+"Vermont","Random Forest Algorithm",1,27,0.037037037037037
+"Vermont","Splunk",1,27,0.037037037037037
+"Vermont","Support Vector Machine",1,27,0.037037037037037
+"Virginia","Data Modeling",89,944,0.0942796610169492
+"Virginia","Big Data",88,944,0.0932203389830508
+"Virginia","Machine Learning",73,944,0.0773305084745763
+"Virginia","Data Science",70,944,0.0741525423728814
+"Virginia","Apache Hadoop",66,944,0.0699152542372881
+"Virginia","Artificial Intelligence",53,944,0.0561440677966102
+"Virginia","Splunk",51,944,0.0540254237288136
+"Virginia","Apache Spark",46,944,0.048728813559322
+"Virginia","Data Engineering",41,944,0.0434322033898305
+"Virginia","Metadata",40,944,0.0423728813559322
+"Washington","Machine Learning",119,726,0.163911845730028
+"Washington","Big Data",75,726,0.103305785123967
+"Washington","Data Science",62,726,0.0853994490358127
+"Washington","Data Modeling",56,726,0.0771349862258953
+"Washington","Apache Hadoop",47,726,0.0647382920110193
+"Washington","Artificial Intelligence",46,726,0.0633608815426997
+"Washington","Apache Spark",34,726,0.046831955922865
+"Washington","Data Engineering",33,726,0.0454545454545455
+"Washington","Metadata",17,726,0.0234159779614325
+"Washington","Deep Learning",16,726,0.0220385674931129
+"Washington, D.C. (District of Columbia)","Data Modeling",33,323,0.102167182662539
+"Washington, D.C. (District of Columbia)","Data Science",29,323,0.0897832817337461
+"Washington, D.C. (District of Columbia)","Big Data",24,323,0.0743034055727554
+"Washington, D.C. (District of Columbia)","Metadata",22,323,0.0681114551083591
+"Washington, D.C. (District of Columbia)","Machine Learning",21,323,0.065015479876161
+"Washington, D.C. (District of Columbia)","Splunk",19,323,0.0588235294117647
+"Washington, D.C. (District of Columbia)","Artificial Intelligence",17,323,0.0526315789473684
+"Washington, D.C. (District of Columbia)","Data Engineering",13,323,0.0402476780185759
+"Washington, D.C. (District of Columbia)","Unstructured Data",9,323,0.0278637770897833
+"Washington, D.C. (District of Columbia)","Apache Hadoop",8,323,0.0247678018575851
+"Washington, D.C. (District of Columbia)","Predictive Analytics",8,323,0.0247678018575851
+"West Virginia","Data Science",6,22,0.272727272727273
+"West Virginia","Artificial Intelligence",2,22,0.0909090909090909
+"West Virginia","Data Modeling",2,22,0.0909090909090909
+"West Virginia","Apache Airflow",1,22,0.0454545454545455
+"West Virginia","Apache Hadoop",1,22,0.0454545454545455
+"West Virginia","Apache Spark",1,22,0.0454545454545455
+"West Virginia","Big Data",1,22,0.0454545454545455
+"West Virginia","Data Manipulation",1,22,0.0454545454545455
+"West Virginia","Deep Learning",1,22,0.0454545454545455
+"West Virginia","Machine Learning",1,22,0.0454545454545455
+"West Virginia","Machine Learning Algorithms",1,22,0.0454545454545455
+"West Virginia","Metadata",1,22,0.0454545454545455
+"West Virginia","PyTorch (Machine Learning Library)",1,22,0.0454545454545455
+"West Virginia","Real Time Data",1,22,0.0454545454545455
+"West Virginia","Splunk",1,22,0.0454545454545455
+"Wisconsin","Data Modeling",29,131,0.221374045801527
+"Wisconsin","Data Science",12,131,0.0916030534351145
+"Wisconsin","Big Data",9,131,0.0687022900763359
+"Wisconsin","Data Manipulation",6,131,0.0458015267175573
+"Wisconsin","Predictive Analytics",6,131,0.0458015267175573
+"Wisconsin","Artificial Intelligence",5,131,0.0381679389312977
+"Wisconsin","Machine Learning",5,131,0.0381679389312977
+"Wisconsin","Apache Hadoop",4,131,0.0305343511450382
+"Wisconsin","Apache Spark",4,131,0.0305343511450382
+"Wisconsin","Data Engineering",4,131,0.0305343511450382
+"Wisconsin","Metadata",4,131,0.0305343511450382
+"Wyoming","Apache Spark",3,9,0.333333333333333
+"Wyoming","Apache Airflow",1,9,0.111111111111111
+"Wyoming","Apache Flink",1,9,0.111111111111111
+"Wyoming","Apache Hadoop",1,9,0.111111111111111
+"Wyoming","Big Data",1,9,0.111111111111111
+"Wyoming","Data Infrastructure",1,9,0.111111111111111
+"Wyoming","Data Science",1,9,0.111111111111111
