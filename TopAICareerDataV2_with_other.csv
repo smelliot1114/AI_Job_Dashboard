@@ -1,0 +1,610 @@
+"state_name","lot_career_area_name","entry_count","total_jobs","proportion"
+"Alabama","Information Technology and Computer Science",35,65,0.538461538461538
+"Alabama","Business Management and Operations",6,65,0.0923076923076923
+"Alabama","Engineering",5,65,0.0769230769230769
+"Alabama","Science and Research",3,65,0.0461538461538462
+"Alabama","Education and Training",2,65,0.0307692307692308
+"Alabama","Finance",2,65,0.0307692307692308
+"Alabama","Healthcare",2,65,0.0307692307692308
+"Alabama","Unclassified Career Area",2,65,0.0307692307692308
+"Alabama","Community and Social Services",1,65,0.0153846153846154
+"Alabama","Human Resources",1,65,0.0153846153846154
+"Alabama","Law, Compliance, and Public Safety",1,65,0.0153846153846154
+"Alabama","Maintenance, Repair, and Installation",1,65,0.0153846153846154
+"Alabama","Manufacturing and Production",1,65,0.0153846153846154
+"Alabama","Sales",1,65,0.0153846153846154
+"Alabama","Social Analysis and Planning",1,65,0.0153846153846154
+"Alabama","Transportation",1,65,0.0153846153846154
+"Alaska","Information Technology and Computer Science",6,10,0.6
+"Alaska","Business Management and Operations",2,10,0.2
+"Alaska","Healthcare",1,10,0.1
+"Alaska","Manufacturing and Production",1,10,0.1
+"Arizona","Information Technology and Computer Science",115,188,0.611702127659574
+"Arizona","Business Management and Operations",15,188,0.0797872340425532
+"Arizona","Engineering",13,188,0.0691489361702128
+"Arizona","Sales",10,188,0.0531914893617021
+"Arizona","Marketing and Public Relations",8,188,0.0425531914893617
+"Arizona","Healthcare",5,188,0.0265957446808511
+"Arizona","Unclassified Career Area",5,188,0.0265957446808511
+"Arizona","Finance",4,188,0.0212765957446809
+"Arizona","Science and Research",3,188,0.0159574468085106
+"Arizona","Clerical and Administrative",2,188,0.0106382978723404
+"Arizona","Design, Media, and Writing",2,188,0.0106382978723404
+"Arizona","Education and Training",2,188,0.0106382978723404
+"Arkansas","Information Technology and Computer Science",13,31,0.419354838709677
+"Arkansas","Finance",4,31,0.129032258064516
+"Arkansas","Business Management and Operations",3,31,0.0967741935483871
+"Arkansas","Engineering",3,31,0.0967741935483871
+"Arkansas","Education and Training",2,31,0.0645161290322581
+"Arkansas","Clerical and Administrative",1,31,0.032258064516129
+"Arkansas","Customer and Client Support",1,31,0.032258064516129
+"Arkansas","Healthcare",1,31,0.032258064516129
+"Arkansas","Marketing and Public Relations",1,31,0.032258064516129
+"Arkansas","Science and Research",1,31,0.032258064516129
+"Arkansas","Unclassified Career Area",1,31,0.032258064516129
+"California","Information Technology and Computer Science",894,1416,0.63135593220339
+"California","Business Management and Operations",99,1416,0.0699152542372881
+"California","Marketing and Public Relations",76,1416,0.0536723163841808
+"California","Engineering",55,1416,0.0388418079096045
+"California","Finance",47,1416,0.0331920903954802
+"California","Sales",39,1416,0.0275423728813559
+"California","Science and Research",30,1416,0.0211864406779661
+"California","Healthcare",27,1416,0.0190677966101695
+"California","Unclassified Career Area",23,1416,0.0162429378531073
+"California","Manufacturing and Production",18,1416,0.0127118644067797
+"California","Clerical and Administrative",16,1416,0.0112994350282486
+"California","Design, Media, and Writing",16,1416,0.0112994350282486
+"Colorado","Information Technology and Computer Science",129,208,0.620192307692308
+"Colorado","Business Management and Operations",14,208,0.0673076923076923
+"Colorado","Engineering",10,208,0.0480769230769231
+"Colorado","Science and Research",7,208,0.0336538461538462
+"Colorado","Finance",6,208,0.0288461538461538
+"Colorado","Marketing and Public Relations",6,208,0.0288461538461538
+"Colorado","Sales",6,208,0.0288461538461538
+"Colorado","Customer and Client Support",5,208,0.0240384615384615
+"Colorado","Clerical and Administrative",4,208,0.0192307692307692
+"Colorado","Healthcare",4,208,0.0192307692307692
+"Colorado","Unclassified Career Area",4,208,0.0192307692307692
+"Colorado","Social Analysis and Planning",3,208,0.0144230769230769
+"Connecticut","Information Technology and Computer Science",77,111,0.693693693693694
+"Connecticut","Business Management and Operations",8,111,0.0720720720720721
+"Connecticut","Finance",5,111,0.045045045045045
+"Connecticut","Engineering",3,111,0.027027027027027
+"Connecticut","Marketing and Public Relations",3,111,0.027027027027027
+"Connecticut","Healthcare",2,111,0.018018018018018
+"Connecticut","Manufacturing and Production",2,111,0.018018018018018
+"Connecticut","Sales",2,111,0.018018018018018
+"Connecticut","Science and Research",2,111,0.018018018018018
+"Connecticut","Construction, Extraction, and Architecture",1,111,0.00900900900900901
+"Connecticut","Customer and Client Support",1,111,0.00900900900900901
+"Connecticut","Design, Media, and Writing",1,111,0.00900900900900901
+"Connecticut","Hospitality, Food, and Tourism",1,111,0.00900900900900901
+"Connecticut","Law, Compliance, and Public Safety",1,111,0.00900900900900901
+"Connecticut","Social Analysis and Planning",1,111,0.00900900900900901
+"Connecticut","Unclassified Career Area",1,111,0.00900900900900901
+"Delaware","Information Technology and Computer Science",25,48,0.520833333333333
+"Delaware","Business Management and Operations",7,48,0.145833333333333
+"Delaware","Finance",7,48,0.145833333333333
+"Delaware","Human Resources",2,48,0.0416666666666667
+"Delaware","Sales",2,48,0.0416666666666667
+"Delaware","Design, Media, and Writing",1,48,0.0208333333333333
+"Delaware","Engineering",1,48,0.0208333333333333
+"Delaware","Marketing and Public Relations",1,48,0.0208333333333333
+"Delaware","Science and Research",1,48,0.0208333333333333
+"Delaware","Social Analysis and Planning",1,48,0.0208333333333333
+"Florida","Information Technology and Computer Science",185,321,0.576323987538941
+"Florida","Business Management and Operations",24,321,0.0747663551401869
+"Florida","Healthcare",22,321,0.0685358255451713
+"Florida","Sales",17,321,0.0529595015576324
+"Florida","Finance",12,321,0.0373831775700935
+"Florida","Marketing and Public Relations",12,321,0.0373831775700935
+"Florida","Unclassified Career Area",12,321,0.0373831775700935
+"Florida","Customer and Client Support",6,321,0.0186915887850467
+"Florida","Construction, Extraction, and Architecture",4,321,0.0124610591900312
+"Florida","Science and Research",4,321,0.0124610591900312
+"Florida","Clerical and Administrative",3,321,0.00934579439252336
+"Florida","Education and Training",3,321,0.00934579439252336
+"Florida","Engineering",3,321,0.00934579439252336
+"Florida","Human Resources",3,321,0.00934579439252336
+"Florida","Maintenance, Repair, and Installation",3,321,0.00934579439252336
+"Georgia","Information Technology and Computer Science",165,270,0.611111111111111
+"Georgia","Business Management and Operations",24,270,0.0888888888888889
+"Georgia","Marketing and Public Relations",16,270,0.0592592592592593
+"Georgia","Sales",11,270,0.0407407407407407
+"Georgia","Engineering",8,270,0.0296296296296296
+"Georgia","Finance",8,270,0.0296296296296296
+"Georgia","Manufacturing and Production",7,270,0.0259259259259259
+"Georgia","Unclassified Career Area",6,270,0.0222222222222222
+"Georgia","Clerical and Administrative",4,270,0.0148148148148148
+"Georgia","Customer and Client Support",4,270,0.0148148148148148
+"Georgia","Maintenance, Repair, and Installation",4,270,0.0148148148148148
+"Georgia","Science and Research",4,270,0.0148148148148148
+"Hawaii","Information Technology and Computer Science",13,30,0.433333333333333
+"Hawaii","Business Management and Operations",3,30,0.1
+"Hawaii","Finance",3,30,0.1
+"Hawaii","Unclassified Career Area",3,30,0.1
+"Hawaii","Clerical and Administrative",2,30,0.0666666666666667
+"Hawaii","Agriculture, Horticulture, & the Outdoors",1,30,0.0333333333333333
+"Hawaii","Customer and Client Support",1,30,0.0333333333333333
+"Hawaii","Education and Training",1,30,0.0333333333333333
+"Hawaii","Sales",1,30,0.0333333333333333
+"Hawaii","Science and Research",1,30,0.0333333333333333
+"Hawaii","Social Analysis and Planning",1,30,0.0333333333333333
+"Idaho","Information Technology and Computer Science",18,33,0.545454545454545
+"Idaho","Engineering",4,33,0.121212121212121
+"Idaho","Marketing and Public Relations",3,33,0.0909090909090909
+"Idaho","Business Management and Operations",2,33,0.0606060606060606
+"Idaho","Finance",2,33,0.0606060606060606
+"Idaho","Unclassified Career Area",2,33,0.0606060606060606
+"Idaho","Customer and Client Support",1,33,0.0303030303030303
+"Idaho","Maintenance, Repair, and Installation",1,33,0.0303030303030303
+"Illinois","Information Technology and Computer Science",242,393,0.615776081424936
+"Illinois","Business Management and Operations",33,393,0.083969465648855
+"Illinois","Finance",18,393,0.0458015267175573
+"Illinois","Marketing and Public Relations",18,393,0.0458015267175573
+"Illinois","Sales",15,393,0.0381679389312977
+"Illinois","Education and Training",9,393,0.0229007633587786
+"Illinois","Engineering",9,393,0.0229007633587786
+"Illinois","Healthcare",9,393,0.0229007633587786
+"Illinois","Unclassified Career Area",9,393,0.0229007633587786
+"Illinois","Manufacturing and Production",7,393,0.0178117048346056
+"Illinois","Science and Research",5,393,0.0127226463104326
+"Illinois","Human Resources",4,393,0.0101781170483461
+"Indiana","Information Technology and Computer Science",34,68,0.5
+"Indiana","Business Management and Operations",6,68,0.0882352941176471
+"Indiana","Engineering",4,68,0.0588235294117647
+"Indiana","Education and Training",3,68,0.0441176470588235
+"Indiana","Maintenance, Repair, and Installation",3,68,0.0441176470588235
+"Indiana","Sales",3,68,0.0441176470588235
+"Indiana","Science and Research",3,68,0.0441176470588235
+"Indiana","Clerical and Administrative",2,68,0.0294117647058824
+"Indiana","Design, Media, and Writing",2,68,0.0294117647058824
+"Indiana","Healthcare",2,68,0.0294117647058824
+"Indiana","Manufacturing and Production",2,68,0.0294117647058824
+"Indiana","Construction, Extraction, and Architecture",1,68,0.0147058823529412
+"Indiana","Customer and Client Support",1,68,0.0147058823529412
+"Indiana","Finance",1,68,0.0147058823529412
+"Indiana","Marketing and Public Relations",1,68,0.0147058823529412
+"Iowa","Information Technology and Computer Science",24,51,0.470588235294118
+"Iowa","Marketing and Public Relations",5,51,0.0980392156862745
+"Iowa","Engineering",4,51,0.0784313725490196
+"Iowa","Finance",4,51,0.0784313725490196
+"Iowa","Business Management and Operations",3,51,0.0588235294117647
+"Iowa","Education and Training",2,51,0.0392156862745098
+"Iowa","Healthcare",2,51,0.0392156862745098
+"Iowa","Unclassified Career Area",2,51,0.0392156862745098
+"Iowa","Community and Social Services",1,51,0.0196078431372549
+"Iowa","Customer and Client Support",1,51,0.0196078431372549
+"Iowa","Manufacturing and Production",1,51,0.0196078431372549
+"Iowa","Sales",1,51,0.0196078431372549
+"Iowa","Science and Research",1,51,0.0196078431372549
+"Kansas","Information Technology and Computer Science",29,49,0.591836734693878
+"Kansas","Finance",3,49,0.0612244897959184
+"Kansas","Maintenance, Repair, and Installation",3,49,0.0612244897959184
+"Kansas","Business Management and Operations",2,49,0.0408163265306122
+"Kansas","Customer and Client Support",2,49,0.0408163265306122
+"Kansas","Manufacturing and Production",2,49,0.0408163265306122
+"Kansas","Unclassified Career Area",2,49,0.0408163265306122
+"Kansas","Design, Media, and Writing",1,49,0.0204081632653061
+"Kansas","Education and Training",1,49,0.0204081632653061
+"Kansas","Engineering",1,49,0.0204081632653061
+"Kansas","Hospitality, Food, and Tourism",1,49,0.0204081632653061
+"Kansas","Human Resources",1,49,0.0204081632653061
+"Kansas","Marketing and Public Relations",1,49,0.0204081632653061
+"Kentucky","Information Technology and Computer Science",15,48,0.3125
+"Kentucky","Business Management and Operations",9,48,0.1875
+"Kentucky","Maintenance, Repair, and Installation",4,48,0.0833333333333333
+"Kentucky","Engineering",3,48,0.0625
+"Kentucky","Marketing and Public Relations",3,48,0.0625
+"Kentucky","Clerical and Administrative",2,48,0.0416666666666667
+"Kentucky","Finance",2,48,0.0416666666666667
+"Kentucky","Healthcare",2,48,0.0416666666666667
+"Kentucky","Sales",2,48,0.0416666666666667
+"Kentucky","Community and Social Services",1,48,0.0208333333333333
+"Kentucky","Design, Media, and Writing",1,48,0.0208333333333333
+"Kentucky","Education and Training",1,48,0.0208333333333333
+"Kentucky","Human Resources",1,48,0.0208333333333333
+"Kentucky","Law, Compliance, and Public Safety",1,48,0.0208333333333333
+"Kentucky","Unclassified Career Area",1,48,0.0208333333333333
+"Louisiana","Information Technology and Computer Science",26,49,0.530612244897959
+"Louisiana","Business Management and Operations",7,49,0.142857142857143
+"Louisiana","Healthcare",2,49,0.0408163265306122
+"Louisiana","Human Resources",2,49,0.0408163265306122
+"Louisiana","Maintenance, Repair, and Installation",2,49,0.0408163265306122
+"Louisiana","Sales",2,49,0.0408163265306122
+"Louisiana","Construction, Extraction, and Architecture",1,49,0.0204081632653061
+"Louisiana","Education and Training",1,49,0.0204081632653061
+"Louisiana","Engineering",1,49,0.0204081632653061
+"Louisiana","Finance",1,49,0.0204081632653061
+"Louisiana","Manufacturing and Production",1,49,0.0204081632653061
+"Louisiana","Personal Services",1,49,0.0204081632653061
+"Louisiana","Science and Research",1,49,0.0204081632653061
+"Louisiana","Unclassified Career Area",1,49,0.0204081632653061
+"Maine","Information Technology and Computer Science",10,18,0.555555555555556
+"Maine","Business Management and Operations",2,18,0.111111111111111
+"Maine","Marketing and Public Relations",2,18,0.111111111111111
+"Maine","Community and Social Services",1,18,0.0555555555555556
+"Maine","Customer and Client Support",1,18,0.0555555555555556
+"Maine","Engineering",1,18,0.0555555555555556
+"Maine","Finance",1,18,0.0555555555555556
+"Maryland","Information Technology and Computer Science",182,252,0.722222222222222
+"Maryland","Finance",13,252,0.0515873015873016
+"Maryland","Marketing and Public Relations",8,252,0.0317460317460317
+"Maryland","Business Management and Operations",7,252,0.0277777777777778
+"Maryland","Healthcare",6,252,0.0238095238095238
+"Maryland","Unclassified Career Area",5,252,0.0198412698412698
+"Maryland","Law, Compliance, and Public Safety",4,252,0.0158730158730159
+"Maryland","Science and Research",4,252,0.0158730158730159
+"Maryland","Social Analysis and Planning",4,252,0.0158730158730159
+"Maryland","Clerical and Administrative",3,252,0.0119047619047619
+"Maryland","Design, Media, and Writing",3,252,0.0119047619047619
+"Maryland","Education and Training",3,252,0.0119047619047619
+"Maryland","Engineering",3,252,0.0119047619047619
+"Maryland","Sales",3,252,0.0119047619047619
+"Massachusetts","Information Technology and Computer Science",225,401,0.561097256857855
+"Massachusetts","Science and Research",28,401,0.0698254364089776
+"Massachusetts","Business Management and Operations",26,401,0.0648379052369077
+"Massachusetts","Marketing and Public Relations",17,401,0.0423940149625935
+"Massachusetts","Sales",17,401,0.0423940149625935
+"Massachusetts","Healthcare",14,401,0.0349127182044888
+"Massachusetts","Unclassified Career Area",13,401,0.0324189526184539
+"Massachusetts","Engineering",11,401,0.027431421446384
+"Massachusetts","Education and Training",10,401,0.0249376558603491
+"Massachusetts","Finance",10,401,0.0249376558603491
+"Massachusetts","Human Resources",7,401,0.0174563591022444
+"Massachusetts","Design, Media, and Writing",5,401,0.0124688279301746
+"Michigan","Information Technology and Computer Science",120,207,0.579710144927536
+"Michigan","Business Management and Operations",15,207,0.072463768115942
+"Michigan","Engineering",11,207,0.0531400966183575
+"Michigan","Marketing and Public Relations",9,207,0.0434782608695652
+"Michigan","Finance",7,207,0.0338164251207729
+"Michigan","Manufacturing and Production",6,207,0.0289855072463768
+"Michigan","Science and Research",6,207,0.0289855072463768
+"Michigan","Unclassified Career Area",6,207,0.0289855072463768
+"Michigan","Law, Compliance, and Public Safety",4,207,0.0193236714975845
+"Michigan","Maintenance, Repair, and Installation",4,207,0.0193236714975845
+"Michigan","Sales",4,207,0.0193236714975845
+"Michigan","Healthcare",3,207,0.0144927536231884
+"Michigan","Human Resources",3,207,0.0144927536231884
+"Minnesota","Information Technology and Computer Science",92,151,0.609271523178808
+"Minnesota","Business Management and Operations",13,151,0.0860927152317881
+"Minnesota","Marketing and Public Relations",7,151,0.0463576158940397
+"Minnesota","Sales",6,151,0.0397350993377483
+"Minnesota","Healthcare",4,151,0.0264900662251656
+"Minnesota","Law, Compliance, and Public Safety",4,151,0.0264900662251656
+"Minnesota","Unclassified Career Area",4,151,0.0264900662251656
+"Minnesota","Engineering",3,151,0.0198675496688742
+"Minnesota","Finance",3,151,0.0198675496688742
+"Minnesota","Maintenance, Repair, and Installation",3,151,0.0198675496688742
+"Minnesota","Agriculture, Horticulture, & the Outdoors",2,151,0.0132450331125828
+"Minnesota","Community and Social Services",2,151,0.0132450331125828
+"Minnesota","Education and Training",2,151,0.0132450331125828
+"Minnesota","Science and Research",2,151,0.0132450331125828
+"Mississippi","Information Technology and Computer Science",11,25,0.44
+"Mississippi","Sales",4,25,0.16
+"Mississippi","Business Management and Operations",3,25,0.12
+"Mississippi","Engineering",2,25,0.08
+"Mississippi","Maintenance, Repair, and Installation",2,25,0.08
+"Mississippi","Healthcare",1,25,0.04
+"Mississippi","Marketing and Public Relations",1,25,0.04
+"Mississippi","Unclassified Career Area",1,25,0.04
+"Missouri","Information Technology and Computer Science",75,118,0.635593220338983
+"Missouri","Business Management and Operations",12,118,0.101694915254237
+"Missouri","Engineering",9,118,0.076271186440678
+"Missouri","Finance",4,118,0.0338983050847458
+"Missouri","Marketing and Public Relations",3,118,0.0254237288135593
+"Missouri","Healthcare",2,118,0.0169491525423729
+"Missouri","Sales",2,118,0.0169491525423729
+"Missouri","Clerical and Administrative",1,118,0.00847457627118644
+"Missouri","Community and Social Services",1,118,0.00847457627118644
+"Missouri","Construction, Extraction, and Architecture",1,118,0.00847457627118644
+"Missouri","Customer and Client Support",1,118,0.00847457627118644
+"Missouri","Education and Training",1,118,0.00847457627118644
+"Missouri","Human Resources",1,118,0.00847457627118644
+"Missouri","Law, Compliance, and Public Safety",1,118,0.00847457627118644
+"Missouri","Maintenance, Repair, and Installation",1,118,0.00847457627118644
+"Missouri","Science and Research",1,118,0.00847457627118644
+"Missouri","Transportation",1,118,0.00847457627118644
+"Missouri","Unclassified Career Area",1,118,0.00847457627118644
+"Montana","Information Technology and Computer Science",2,7,0.285714285714286
+"Montana","Education and Training",1,7,0.142857142857143
+"Montana","Engineering",1,7,0.142857142857143
+"Montana","Healthcare",1,7,0.142857142857143
+"Montana","Sales",1,7,0.142857142857143
+"Montana","Science and Research",1,7,0.142857142857143
+"Nebraska","Information Technology and Computer Science",26,41,0.634146341463415
+"Nebraska","Marketing and Public Relations",3,41,0.0731707317073171
+"Nebraska","Education and Training",2,41,0.048780487804878
+"Nebraska","Manufacturing and Production",2,41,0.048780487804878
+"Nebraska","Unclassified Career Area",2,41,0.048780487804878
+"Nebraska","Business Management and Operations",1,41,0.024390243902439
+"Nebraska","Customer and Client Support",1,41,0.024390243902439
+"Nebraska","Engineering",1,41,0.024390243902439
+"Nebraska","Finance",1,41,0.024390243902439
+"Nebraska","Hospitality, Food, and Tourism",1,41,0.024390243902439
+"Nebraska","Maintenance, Repair, and Installation",1,41,0.024390243902439
+"Nevada","Information Technology and Computer Science",26,44,0.590909090909091
+"Nevada","Finance",3,44,0.0681818181818182
+"Nevada","Sales",2,44,0.0454545454545455
+"Nevada","Business Management and Operations",1,44,0.0227272727272727
+"Nevada","Customer and Client Support",1,44,0.0227272727272727
+"Nevada","Education and Training",1,44,0.0227272727272727
+"Nevada","Engineering",1,44,0.0227272727272727
+"Nevada","Healthcare",1,44,0.0227272727272727
+"Nevada","Human Resources",1,44,0.0227272727272727
+"Nevada","Maintenance, Repair, and Installation",1,44,0.0227272727272727
+"Nevada","Manufacturing and Production",1,44,0.0227272727272727
+"Nevada","Marketing and Public Relations",1,44,0.0227272727272727
+"Nevada","Personal Services",1,44,0.0227272727272727
+"Nevada","Science and Research",1,44,0.0227272727272727
+"Nevada","Social Analysis and Planning",1,44,0.0227272727272727
+"Nevada","Unclassified Career Area",1,44,0.0227272727272727
+"New Hampshire","Information Technology and Computer Science",25,34,0.735294117647059
+"New Hampshire","Business Management and Operations",3,34,0.0882352941176471
+"New Hampshire","Education and Training",1,34,0.0294117647058824
+"New Hampshire","Engineering",1,34,0.0294117647058824
+"New Hampshire","Finance",1,34,0.0294117647058824
+"New Hampshire","Healthcare",1,34,0.0294117647058824
+"New Hampshire","Marketing and Public Relations",1,34,0.0294117647058824
+"New Hampshire","Unclassified Career Area",1,34,0.0294117647058824
+"New Jersey","Information Technology and Computer Science",209,346,0.604046242774566
+"New Jersey","Business Management and Operations",30,346,0.0867052023121387
+"New Jersey","Sales",16,346,0.046242774566474
+"New Jersey","Marketing and Public Relations",15,346,0.0433526011560694
+"New Jersey","Finance",13,346,0.0375722543352601
+"New Jersey","Unclassified Career Area",10,346,0.0289017341040462
+"New Jersey","Engineering",9,346,0.0260115606936416
+"New Jersey","Science and Research",8,346,0.023121387283237
+"New Jersey","Education and Training",7,346,0.0202312138728324
+"New Jersey","Human Resources",7,346,0.0202312138728324
+"New Jersey","Healthcare",6,346,0.0173410404624277
+"New Jersey","Clerical and Administrative",4,346,0.0115606936416185
+"New Mexico","Information Technology and Computer Science",13,25,0.52
+"New Mexico","Engineering",4,25,0.16
+"New Mexico","Science and Research",3,25,0.12
+"New Mexico","Sales",2,25,0.08
+"New Mexico","Customer and Client Support",1,25,0.04
+"New Mexico","Maintenance, Repair, and Installation",1,25,0.04
+"New Mexico","Manufacturing and Production",1,25,0.04
+"New York","Information Technology and Computer Science",339,609,0.556650246305419
+"New York","Business Management and Operations",59,609,0.09688013136289
+"New York","Finance",42,609,0.0689655172413793
+"New York","Marketing and Public Relations",33,609,0.0541871921182266
+"New York","Sales",26,609,0.0426929392446634
+"New York","Unclassified Career Area",16,609,0.0262725779967159
+"New York","Design, Media, and Writing",14,609,0.0229885057471264
+"New York","Engineering",14,609,0.0229885057471264
+"New York","Education and Training",9,609,0.0147783251231527
+"New York","Healthcare",9,609,0.0147783251231527
+"New York","Science and Research",9,609,0.0147783251231527
+"New York","Human Resources",8,609,0.013136288998358
+"North Carolina","Information Technology and Computer Science",193,312,0.618589743589744
+"North Carolina","Business Management and Operations",27,312,0.0865384615384615
+"North Carolina","Sales",16,312,0.0512820512820513
+"North Carolina","Finance",11,312,0.0352564102564103
+"North Carolina","Healthcare",10,312,0.032051282051282
+"North Carolina","Engineering",7,312,0.0224358974358974
+"North Carolina","Maintenance, Repair, and Installation",7,312,0.0224358974358974
+"North Carolina","Marketing and Public Relations",7,312,0.0224358974358974
+"North Carolina","Science and Research",6,312,0.0192307692307692
+"North Carolina","Unclassified Career Area",5,312,0.016025641025641
+"North Carolina","Education and Training",4,312,0.0128205128205128
+"North Carolina","Human Resources",4,312,0.0128205128205128
+"North Dakota","Information Technology and Computer Science",3,5,0.6
+"North Dakota","Community and Social Services",1,5,0.2
+"North Dakota","Human Resources",1,5,0.2
+"Ohio","Information Technology and Computer Science",118,200,0.59
+"Ohio","Business Management and Operations",18,200,0.09
+"Ohio","Marketing and Public Relations",9,200,0.045
+"Ohio","Engineering",8,200,0.04
+"Ohio","Finance",6,200,0.03
+"Ohio","Sales",6,200,0.03
+"Ohio","Maintenance, Repair, and Installation",5,200,0.025
+"Ohio","Human Resources",4,200,0.02
+"Ohio","Manufacturing and Production",4,200,0.02
+"Ohio","Unclassified Career Area",4,200,0.02
+"Ohio","Education and Training",3,200,0.015
+"Ohio","Healthcare",3,200,0.015
+"Ohio","Social Analysis and Planning",3,200,0.015
+"Oklahoma","Information Technology and Computer Science",14,37,0.378378378378378
+"Oklahoma","Finance",4,37,0.108108108108108
+"Oklahoma","Business Management and Operations",3,37,0.0810810810810811
+"Oklahoma","Unclassified Career Area",3,37,0.0810810810810811
+"Oklahoma","Engineering",2,37,0.0540540540540541
+"Oklahoma","Healthcare",2,37,0.0540540540540541
+"Oklahoma","Sales",2,37,0.0540540540540541
+"Oklahoma","Community and Social Services",1,37,0.027027027027027
+"Oklahoma","Design, Media, and Writing",1,37,0.027027027027027
+"Oklahoma","Education and Training",1,37,0.027027027027027
+"Oklahoma","Hospitality, Food, and Tourism",1,37,0.027027027027027
+"Oklahoma","Law, Compliance, and Public Safety",1,37,0.027027027027027
+"Oklahoma","Manufacturing and Production",1,37,0.027027027027027
+"Oklahoma","Marketing and Public Relations",1,37,0.027027027027027
+"Oregon","Information Technology and Computer Science",79,122,0.647540983606557
+"Oregon","Business Management and Operations",8,122,0.0655737704918033
+"Oregon","Healthcare",7,122,0.0573770491803279
+"Oregon","Engineering",5,122,0.040983606557377
+"Oregon","Education and Training",4,122,0.0327868852459016
+"Oregon","Marketing and Public Relations",3,122,0.0245901639344262
+"Oregon","Sales",3,122,0.0245901639344262
+"Oregon","Clerical and Administrative",2,122,0.0163934426229508
+"Oregon","Finance",2,122,0.0163934426229508
+"Oregon","Law, Compliance, and Public Safety",2,122,0.0163934426229508
+"Oregon","Community and Social Services",1,122,0.00819672131147541
+"Oregon","Design, Media, and Writing",1,122,0.00819672131147541
+"Oregon","Human Resources",1,122,0.00819672131147541
+"Oregon","Maintenance, Repair, and Installation",1,122,0.00819672131147541
+"Oregon","Manufacturing and Production",1,122,0.00819672131147541
+"Oregon","Science and Research",1,122,0.00819672131147541
+"Oregon","Unclassified Career Area",1,122,0.00819672131147541
+"Pennsylvania","Information Technology and Computer Science",152,263,0.577946768060836
+"Pennsylvania","Business Management and Operations",24,263,0.091254752851711
+"Pennsylvania","Engineering",13,263,0.0494296577946768
+"Pennsylvania","Sales",9,263,0.0342205323193916
+"Pennsylvania","Science and Research",9,263,0.0342205323193916
+"Pennsylvania","Clerical and Administrative",8,263,0.0304182509505703
+"Pennsylvania","Design, Media, and Writing",7,263,0.026615969581749
+"Pennsylvania","Marketing and Public Relations",7,263,0.026615969581749
+"Pennsylvania","Healthcare",5,263,0.0190114068441065
+"Pennsylvania","Education and Training",4,263,0.0152091254752852
+"Pennsylvania","Finance",4,263,0.0152091254752852
+"Pennsylvania","Human Resources",3,263,0.0114068441064639
+"Pennsylvania","Maintenance, Repair, and Installation",3,263,0.0114068441064639
+"Pennsylvania","Unclassified Career Area",3,263,0.0114068441064639
+"Rhode Island","Information Technology and Computer Science",12,28,0.428571428571429
+"Rhode Island","Business Management and Operations",7,28,0.25
+"Rhode Island","Healthcare",3,28,0.107142857142857
+"Rhode Island","Engineering",2,28,0.0714285714285714
+"Rhode Island","Education and Training",1,28,0.0357142857142857
+"Rhode Island","Marketing and Public Relations",1,28,0.0357142857142857
+"Rhode Island","Sales",1,28,0.0357142857142857
+"Rhode Island","Unclassified Career Area",1,28,0.0357142857142857
+"South Carolina","Information Technology and Computer Science",15,32,0.46875
+"South Carolina","Engineering",3,32,0.09375
+"South Carolina","Healthcare",3,32,0.09375
+"South Carolina","Business Management and Operations",2,32,0.0625
+"South Carolina","Human Resources",2,32,0.0625
+"South Carolina","Maintenance, Repair, and Installation",2,32,0.0625
+"South Carolina","Sales",2,32,0.0625
+"South Carolina","Manufacturing and Production",1,32,0.03125
+"South Carolina","Marketing and Public Relations",1,32,0.03125
+"South Carolina","Unclassified Career Area",1,32,0.03125
+"South Dakota","Information Technology and Computer Science",8,18,0.444444444444444
+"South Dakota","Business Management and Operations",3,18,0.166666666666667
+"South Dakota","Finance",2,18,0.111111111111111
+"South Dakota","Sales",2,18,0.111111111111111
+"South Dakota","Education and Training",1,18,0.0555555555555556
+"South Dakota","Engineering",1,18,0.0555555555555556
+"South Dakota","Healthcare",1,18,0.0555555555555556
+"Tennessee","Information Technology and Computer Science",46,85,0.541176470588235
+"Tennessee","Marketing and Public Relations",6,85,0.0705882352941176
+"Tennessee","Business Management and Operations",5,85,0.0588235294117647
+"Tennessee","Healthcare",5,85,0.0588235294117647
+"Tennessee","Finance",3,85,0.0352941176470588
+"Tennessee","Human Resources",3,85,0.0352941176470588
+"Tennessee","Sales",3,85,0.0352941176470588
+"Tennessee","Science and Research",3,85,0.0352941176470588
+"Tennessee","Community and Social Services",2,85,0.0235294117647059
+"Tennessee","Engineering",2,85,0.0235294117647059
+"Tennessee","Manufacturing and Production",2,85,0.0235294117647059
+"Tennessee","Social Analysis and Planning",2,85,0.0235294117647059
+"Texas","Information Technology and Computer Science",434,719,0.603616133518776
+"Texas","Business Management and Operations",62,719,0.086230876216968
+"Texas","Engineering",28,719,0.0389429763560501
+"Texas","Sales",27,719,0.0375521557719054
+"Texas","Finance",26,719,0.0361613351877608
+"Texas","Marketing and Public Relations",19,719,0.0264255910987483
+"Texas","Science and Research",16,719,0.0222531293463143
+"Texas","Human Resources",15,719,0.0208623087621697
+"Texas","Unclassified Career Area",13,719,0.0180806675938804
+"Texas","Healthcare",12,719,0.0166898470097357
+"Texas","Customer and Client Support",11,719,0.0152990264255911
+"Texas","Education and Training",9,719,0.0125173852573018
+"Texas","Law, Compliance, and Public Safety",9,719,0.0125173852573018
+"Utah","Information Technology and Computer Science",40,65,0.615384615384615
+"Utah","Business Management and Operations",3,65,0.0461538461538462
+"Utah","Education and Training",3,65,0.0461538461538462
+"Utah","Engineering",3,65,0.0461538461538462
+"Utah","Manufacturing and Production",3,65,0.0461538461538462
+"Utah","Clerical and Administrative",2,65,0.0307692307692308
+"Utah","Finance",2,65,0.0307692307692308
+"Utah","Healthcare",2,65,0.0307692307692308
+"Utah","Marketing and Public Relations",2,65,0.0307692307692308
+"Utah","Sales",2,65,0.0307692307692308
+"Utah","Human Resources",1,65,0.0153846153846154
+"Utah","Maintenance, Repair, and Installation",1,65,0.0153846153846154
+"Utah","Unclassified Career Area",1,65,0.0153846153846154
+"Vermont","Information Technology and Computer Science",6,13,0.461538461538462
+"Vermont","Business Management and Operations",1,13,0.0769230769230769
+"Vermont","Education and Training",1,13,0.0769230769230769
+"Vermont","Engineering",1,13,0.0769230769230769
+"Vermont","Healthcare",1,13,0.0769230769230769
+"Vermont","Manufacturing and Production",1,13,0.0769230769230769
+"Vermont","Science and Research",1,13,0.0769230769230769
+"Vermont","Social Analysis and Planning",1,13,0.0769230769230769
+"Virginia","Information Technology and Computer Science",305,447,0.682326621923937
+"Virginia","Business Management and Operations",29,447,0.0648769574944072
+"Virginia","Finance",15,447,0.0335570469798658
+"Virginia","Unclassified Career Area",14,447,0.0313199105145414
+"Virginia","Social Analysis and Planning",12,447,0.0268456375838926
+"Virginia","Engineering",11,447,0.0246085011185682
+"Virginia","Marketing and Public Relations",8,447,0.0178970917225951
+"Virginia","Human Resources",7,447,0.0156599552572707
+"Virginia","Sales",7,447,0.0156599552572707
+"Virginia","Design, Media, and Writing",6,447,0.0134228187919463
+"Virginia","Science and Research",6,447,0.0134228187919463
+"Virginia","Clerical and Administrative",5,447,0.0111856823266219
+"Washington","Information Technology and Computer Science",219,341,0.642228739002933
+"Washington","Business Management and Operations",22,341,0.0645161290322581
+"Washington","Marketing and Public Relations",21,341,0.06158357771261
+"Washington","Science and Research",14,341,0.0410557184750733
+"Washington","Engineering",13,341,0.0381231671554252
+"Washington","Finance",12,341,0.0351906158357771
+"Washington","Unclassified Career Area",10,341,0.0293255131964809
+"Washington","Sales",5,341,0.0146627565982405
+"Washington","Human Resources",4,341,0.0117302052785924
+"Washington","Manufacturing and Production",4,341,0.0117302052785924
+"Washington","Clerical and Administrative",3,341,0.00879765395894428
+"Washington","Design, Media, and Writing",3,341,0.00879765395894428
+"Washington","Education and Training",3,341,0.00879765395894428
+"Washington","Hospitality, Food, and Tourism",3,341,0.00879765395894428
+"Washington, D.C. (District of Columbia)","Information Technology and Computer Science",109,168,0.648809523809524
+"Washington, D.C. (District of Columbia)","Business Management and Operations",11,168,0.0654761904761905
+"Washington, D.C. (District of Columbia)","Unclassified Career Area",8,168,0.0476190476190476
+"Washington, D.C. (District of Columbia)","Science and Research",6,168,0.0357142857142857
+"Washington, D.C. (District of Columbia)","Finance",5,168,0.0297619047619048
+"Washington, D.C. (District of Columbia)","Clerical and Administrative",4,168,0.0238095238095238
+"Washington, D.C. (District of Columbia)","Social Analysis and Planning",4,168,0.0238095238095238
+"Washington, D.C. (District of Columbia)","Engineering",3,168,0.0178571428571429
+"Washington, D.C. (District of Columbia)","Healthcare",3,168,0.0178571428571429
+"Washington, D.C. (District of Columbia)","Marketing and Public Relations",3,168,0.0178571428571429
+"Washington, D.C. (District of Columbia)","Sales",3,168,0.0178571428571429
+"Washington, D.C. (District of Columbia)","Customer and Client Support",2,168,0.0119047619047619
+"Washington, D.C. (District of Columbia)","Design, Media, and Writing",2,168,0.0119047619047619
+"Washington, D.C. (District of Columbia)","Education and Training",2,168,0.0119047619047619
+"West Virginia","Information Technology and Computer Science",7,13,0.538461538461538
+"West Virginia","Unclassified Career Area",2,13,0.153846153846154
+"West Virginia","Engineering",1,13,0.0769230769230769
+"West Virginia","Marketing and Public Relations",1,13,0.0769230769230769
+"West Virginia","Science and Research",1,13,0.0769230769230769
+"West Virginia","Social Analysis and Planning",1,13,0.0769230769230769
+"Wisconsin","Information Technology and Computer Science",48,98,0.489795918367347
+"Wisconsin","Business Management and Operations",10,98,0.102040816326531
+"Wisconsin","Healthcare",6,98,0.0612244897959184
+"Wisconsin","Finance",5,98,0.0510204081632653
+"Wisconsin","Marketing and Public Relations",5,98,0.0510204081632653
+"Wisconsin","Engineering",4,98,0.0408163265306122
+"Wisconsin","Education and Training",3,98,0.0306122448979592
+"Wisconsin","Human Resources",3,98,0.0306122448979592
+"Wisconsin","Sales",3,98,0.0306122448979592
+"Wisconsin","Customer and Client Support",2,98,0.0204081632653061
+"Wisconsin","Maintenance, Repair, and Installation",2,98,0.0204081632653061
+"Wisconsin","Construction, Extraction, and Architecture",1,98,0.0102040816326531
+"Wisconsin","Design, Media, and Writing",1,98,0.0102040816326531
+"Wisconsin","Law, Compliance, and Public Safety",1,98,0.0102040816326531
+"Wisconsin","Manufacturing and Production",1,98,0.0102040816326531
+"Wisconsin","Science and Research",1,98,0.0102040816326531
+"Wisconsin","Social Analysis and Planning",1,98,0.0102040816326531
+"Wisconsin","Transportation",1,98,0.0102040816326531
+"Wyoming","Information Technology and Computer Science",2,3,0.666666666666667
+"Wyoming","Customer and Client Support",1,3,0.333333333333333
+"Arizona","Other",4,188,0.0212765957446809
+"California","Other",76,1416,0.0536723163841808
+"Colorado","Other",10,208,0.0480769230769231
+"Florida","Other",8,321,0.0249221183800623
+"Georgia","Other",9,270,0.0333333333333333
+"Illinois","Other",15,393,0.0381679389312977
+"Maryland","Other",4,252,0.0158730158730159
+"Massachusetts","Other",18,401,0.0448877805486284
+"Michigan","Other",9,207,0.0434782608695652
+"Minnesota","Other",4,151,0.0264900662251656
+"New Jersey","Other",12,346,0.0346820809248555
+"New York","Other",31,609,0.0509031198686371
+"North Carolina","Other",15,312,0.0480769230769231
+"Ohio","Other",9,200,0.045
+"Pennsylvania","Other",12,263,0.0456273764258555
+"Tennessee","Other",3,85,0.0352941176470588
+"Texas","Other",38,719,0.0528511821974965
+"Virginia","Other",22,447,0.0492170022371365
+"Washington","Other",5,341,0.0146627565982405
+"Washington, D.C. (District of Columbia)","Other",3,168,0.0178571428571429
